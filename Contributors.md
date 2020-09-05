@@ -4,6 +4,7 @@
 - [Surya Vamsi](https://github.com/ijkl)
 - [James Price](http://github.com/mnop)
 - [Gazi Md. Shahnewaz](https://github.com/shahnewaztameem)
+- [Abdur Razzak](https://github.com/Abdur-Razzak-Rouzex/)
 - [Javokhir Jurakhodjaev](https://github.com/qrst)
 - [Md. Fahim Faisal](https://github.com/fahimfaisal003)
 - [Nathan Ross](https://github.com/kokhogo)
@@ -17,3 +18,4 @@
 -[Md. Farhan Hamid] (https://github.com/fash33)
 - [Imtiaz Sakib](https://github.com/imtiazsakib)
 - [Nayeem Islam](https://github.com/nayeemaks)
+- [Mizanur Rahman](https://github.com/Mizzan)
